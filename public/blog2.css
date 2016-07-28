@@ -1,0 +1,60 @@
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header img{
+  height: 300px;
+  width: 100%;
+}
+
+.left-side {
+  margin-left: 8%;
+  width: 15%;
+}
+
+#iron-yard {
+  border: 6px solid #EEE;
+  border-radius: 100%;
+  width: 90px;
+  margin-top: -50px;
+  margin-bottom: 20px;
+}
+
+.iron-yard {
+  font-family: sans-serif;
+  color: #696969;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 1.1em;
+  color: #AAA;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  padding-bottom: 5px;
+  line-height: 1.5em;
+  border-bottom: 1px solid #EEE;
+
+}
+
+.search {
+  font-size: .90em;
+  color: #BBB;
+  font-family: Futura;
+  margin-bottom: 20px;
+}
+
+.left-side input {
+  width: 88%;
+  padding: 5px;
+  margin-left: 2%;
+}
+
+.main {
+  width: 65%;
+  outline: 1px dashed purple;
+
+}
